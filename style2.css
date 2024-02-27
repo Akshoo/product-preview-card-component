@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    max-width: 526px;
+}
+.productimg{
+    width: 50%;
+}
+.mobileimg{
+    display: none;
+}
+.desktopimg{
+    display: block;
+}
