@@ -4,4 +4,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Responsive CSS GRID MOBILEFIRST WORKFLOW
 
-Live Site (https://product-preview-card-component2341.netlify.app/)[https://product-preview-card-component2341.netlify.app/]
+Live Site [https://product-preview-card-component2341.netlify.app/]
